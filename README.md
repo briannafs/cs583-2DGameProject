@@ -17,5 +17,8 @@ A cozy 2D farming and baking game made in Unity.
 - **WASD / Arrow Keys** – Move  
 - **E** – Interact  
 - **1–3** – Switch tools  
+  - **1** - Hoe
+  - **2** - Watering Can
+  - **3** - Seeds
 - **Esc** – Pause  
 
